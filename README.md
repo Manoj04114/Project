@@ -1,2 +1,2 @@
 # Project
-First Major Project.
+This is our first project
